@@ -5,9 +5,9 @@
 ## Installation
 
 ``` bash
-$ curl -Lo- https://raw.github.com/yesmeck/tmuxrc/master/bootstrap.sh | bash
+$ curl -Lo- https://raw.github.com/XadilaX/tmuxrc/master/bootstrap.sh | bash
 ```
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/yesmeck/tmuxrc/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/XadillaX/tmuxrc/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
