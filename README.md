@@ -5,7 +5,7 @@
 ## Installation
 
 ``` bash
-$ curl -Lo- https://raw.github.com/XadilaX/tmuxrc/master/bootstrap.sh | bash
+$ curl -Lo- https://raw.githubusercontent.com/XadillaX/tmuxrc/master/bootstrap.sh | bash
 ```
 
 
