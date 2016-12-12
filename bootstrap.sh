@@ -2,8 +2,8 @@
 
 function die()
 {
-    echo "${@}"
-    exit 1
+  echo "${@}"
+  exit 1
 }
 
 for i in $HOME/.tmux $HOME/.tmux.conf; do
